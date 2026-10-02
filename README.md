@@ -6,7 +6,7 @@ Nesta aplicação o usuário é capaz de identificar kanji pela câmera ou por i
 Desenvolvido por Gustavo Teixeira e publicado na [Google Play](https://play.google.com/store/apps/details?id=com.app.kanjistudy).
 
 <a href="https://play.google.com/store/apps/details?id=com.app.kanjistudy">
-  <img src="images/play-store-button.svg" alt="Baixar Kanji Scanner na Google Play" width="220" />
+  <img src="images/play-store-button.png" alt="Baixar Kanji Scanner na Google Play" width="220" />
 </a>
 
 ## Funcionalidades
