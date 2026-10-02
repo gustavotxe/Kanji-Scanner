@@ -13,9 +13,9 @@ Desenvolvido por Gustavo Teixeira e publicado na [Google Play](https://play.goog
 - Seleção dos caracteres reconhecidos para consultar detalhes ou marcar como aprendidos.
 - Pausa da câmera e seleção de imagens com recorte e ajustes pelo Document Scanner, quando disponível.
 
-![Screenshot scan camera](images/screenshot_camera_scan.jpeg)
-![Screenshot scan camera](images/screenshot_camera_scan2.jpeg)
-![Screenshot scan imagens](images/screenshot_image_scan.jpeg)
+<img src="images/screenshot_camera_scan.jpeg" alt="Screenshot scan camera" width="250" />
+<img src="images/screenshot_camera_scan2.jpeg" alt="Screenshot scan camera" width="250" />
+<img src="images/screenshot_image_scan.jpeg" alt="Screenshot scan imagens" width="250" />
 
 **Consulta ao catálogo**
 
@@ -23,8 +23,8 @@ Desenvolvido por Gustavo Teixeira e publicado na [Google Play](https://play.goog
 - Catálogo armazenado no dispositivo após o download inicial, permitindo consultas offline.
 - Ações para copiar caracteres e abrir uma pesquisa no Google AI pelo navegador.
 
-![Screenshot pesquisa](images/screenshot_search.jpeg)
-![Screenshot detalhes](images/screenshot_kanji_details.jpeg)
+<img src="images/screenshot_search.jpeg" alt="Screenshot pesquisa" width="250" />
+<img src="images/screenshot_kanji_details.jpeg" alt="Screenshot detalhes" width="250" />
 
 **Progresso e preferências**
 
@@ -33,8 +33,8 @@ Desenvolvido por Gustavo Teixeira e publicado na [Google Play](https://play.goog
 - Exportação e importação pelo seletor de arquivos do Android. A importação valida o conteúdo e mescla os caracteres ao progresso existente.
 - Temas claro e escuro com preferência salva e guia de uso dentro do app.
 
-![Screenshot kanji aprendidos](images/screenshot_kanji_learned.jpeg)
-![Screenshot menu](images/screenshot_menu.jpeg)
+<img src="images/screenshot_kanji_learned.jpeg" alt="Screenshot kanji aprendidos" width="250" />
+<img src="images/screenshot_menu.jpeg" alt="Screenshot menu" width="250" />
 
 ## Stack utilizada neste projeto
 
